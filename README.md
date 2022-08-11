@@ -2,7 +2,7 @@
 
 I am Michel Anders and I am a developer, writer and trainer.
 
-My most visible achievements to date are my books and add-ons: they are available on [BlenderMarket](https://blendermarket.com/creators/varkenvarken">), [Smashwords](https://www.smashwords.com/profile/view/varkenvarken) and [Packt](https://www.packtpub.com/books/info/authors/michel-anders) and major online retailers.
+My most visible achievements to date are my books and Blender add-ons: they are available on [BlenderMarket](https://blendermarket.com/creators/varkenvarken">), [Smashwords](https://www.smashwords.com/profile/view/varkenvarken) and [Packt](https://www.packtpub.com/books/info/authors/michel-anders) and major online retailers.
 
 The books and add-ons include (among others):
 
