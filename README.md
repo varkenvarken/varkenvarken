@@ -15,4 +15,4 @@ The books and add-ons include (among others):
 and most recently [Snap!](https://blendermarket.com/products/snap), a time saving tool for people who often work with modular assets packs or creators of asset packs who want to make there product easier to use.
 
 -------------
-[![PCAP-31-03 PCAP – Certified Associate in Python Programming](https://images.credly.com/size/110x110/images/587b02d4-41d5-4a81-9b9d-b5076200713c/pcap-31-xx.png)](https://www.credly.com/badges/fa9f76a8-60cd-4736-b3e3-b5aa1e758892/public_url)
+[![PCPP1 – Certified Professional in Python Programming 1](https://images.credly.com/size/110x110/images/68fb1361-3dbc-4bcb-9748-66620b61bf01/pcpp-32-1xx.png)](https://www.credly.com/badges/b23dec06-2990-4a25-846f-0086aae2ebcc/public_url)
