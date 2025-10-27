@@ -1,6 +1,6 @@
 # Hi
 
-I am Michel Anders and I am a developer, writer and trainer.
+I am Michel Anders and I am a developer, writer and educator.
 
 My most visible achievements to date are [my books](https://michelanders.nl/my-books/) and Blender add-ons: they were available on [BlenderMarket](https://blendermarket.com/creators/varkenvarken), [Smashwords](https://www.smashwords.com/profile/view/varkenvarken) and [Packt](https://www.packtpub.com/books/info/authors/michel-anders) and major online retailers.
 
