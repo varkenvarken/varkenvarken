@@ -16,7 +16,7 @@ I also started a [new project/GitHub repo](https://varkenvarken.github.io/blende
 
 ## Latest
 
-I started a [video series](https://youtube.com/playlist?list=PLxyAbGpHucHZs5InOs_9-apX7wBIQtrrJ&si=RZhKSYvPeT6FovdW) about Blender add-on development. The source code for the example add-ons we show can be found in [this repository](https://github.com/varkenvarken/Blender-add-on-development).
+I started a [video series](https://youtube.com/playlist?list=PLxyAbGpHucHZs5InOs_9-apX7wBIQtrrJ&si=RZhKSYvPeT6FovdW) about Blender add-on development. The source code for the example add-ons we show can be found in [this repository](https://github.com/varkenvarken/Blender-add-on-development). The series is aimed at beginner add-on developers but does assume you have some Python experience. It is also fairly fast paced and code heavy, but we do explain everything in detail and provide links to relevant documentation.
 
 -------------
 [![PCPP1 – Certified Professional in Python Programming 1](https://images.credly.com/size/120x120/images/37e26478-d80c-43e8-80eb-ec492f3a26c1/image.png)](https://www.credly.com/badges/b23dec06-2990-4a25-846f-0086aae2ebcc/public_url)[![ko-fi logo](https://storage.ko-fi.com/cdn/logomarkLogo.png)](https://ko-fi.com/varkenvarken) If you appreciate this content and can afford it, consider [leaving me a tip on Ko-Fi](https://ko-fi.com/varkenvarken).
